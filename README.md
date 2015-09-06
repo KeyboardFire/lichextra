@@ -2,10 +2,10 @@
 
 Tired of not being able to see all the available games in the lichess lobby?
 
-![screenshot](https://raw.githubusercontent.com/KeyboardFire/lichextra/master/screenshot.png)
-
 With lichextra, you'll see the full, untruncated list of games that are
 available on lichess.
+
+![screenshot](https://raw.githubusercontent.com/KeyboardFire/lichextra/master/screenshot.png)
 
 ## How to use
 
