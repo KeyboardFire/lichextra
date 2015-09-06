@@ -24,3 +24,5 @@ Note: lichextra currently only works on Firefox.
     or simply link directly to the remote file on Github (`https://raw.githubusercontent.com/KeyboardFire/lichextra/master/lichess.lobby.min.js`):
 
     ![remote](https://github.com/KeyboardFire/lichextra/raw/master/remote.png)
+
+4. Refresh the lichess homepage.
